@@ -1,0 +1,1 @@
+# MyJPG-Compressor
